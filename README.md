@@ -1,6 +1,7 @@
 #Lead Scoring Case study
 
 **Problem Statement**
+
 An education company named X Education sells online courses to industry professionals. On any given day, many 
 professionals who are interested in the courses land on their website and browse for courses. 
 The company markets its courses on several websites and search engines like Google. Once these people land on the 
@@ -32,27 +33,43 @@ Also, make sure you include this in your final PPT where you'll make recommendat
 **Approach**
 
 • Source the data for analysis
+
 • Reading and understanding the data
+
 • Data cleaning
+
 • EDA
+
 • Feature scaling
+
 • Splitting the data into train and test dataset
+
 • Prepare the Data for modelling
+
 • Module building
+
 • Module evaluation specificity and sensitivity or precision recall
+
 • Making prediction on the test set
 
 **Conclusion**
 
 Based on the analysis, the most influential variables in identifying potential 
 buyers, ranked in descending order of importance, are as follows:
+
   • Total time spent on the website.
+  
   • Total number of visits.
+  
   • Lead source: a. Google b. Direct traffic c. Organic search d. Welingak
     website
+    
   • Last activity: a. SMS b. Olark chat conversation
+  
   • Lead origin as Lead add format.
+  
   • Current occupation as a working professional.
+  
   • Taking these factors into consideration, X Education has a significant 
     opportunity to convert a majority of potential buyers by focusing on these 
     key aspects. By emphasizing the importance of the website experience, 
